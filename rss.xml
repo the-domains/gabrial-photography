@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Gabrial Photography]]></title>
+        <description><![CDATA[Gabrial Photography]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 17 Aug 2016 15:07:51 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[New Zealand's Otherworldly Landscapes]]></title>
+            <description><![CDATA[<article><h1>New Zealand's Otherworldly Landscapes</h1><p>If you flew south over these South Island alps and then carried on over the Pacific, your next sighting of land would be Antarctica. This view of the alps, from Blanket Bay lodge, was shared by some of the stars of the Lord of the Rings trilogy, who stayed here while filming.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1c8a8895bc00201d48653c54923488b359385f53.jpg"></article>]]></description>
+            <link>http://www.cntraveler.com/galleries/2012-04-24/new-zealand-maori-lord-of-the-rings-alps-bay-islands-photos-hakan-ludwigson</link>
+            <guid isPermaLink="false">9d297c1b-1d7f-4196-970a-6a58881c7f2d</guid>
+            <pubDate>Wed, 17 Aug 2016 15:07:42 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
